@@ -1,0 +1,5 @@
+.gitignore.swp
+a.out
+main.c~
+test.wav
+.main.c.swp
